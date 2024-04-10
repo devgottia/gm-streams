@@ -57,7 +57,7 @@ $.ajax({
 
 function copyToClipboard(ch_Id) {
   let copyUrl = encodeURI(
-    `https://stream.espnonline.site/live/embed.php?ch=${ch_Id}`
+    `http://v1.gm-streams.online/p/p.html?ch=${ch_Id}`
   );
 
   window.navigator.clipboard.writeText(copyUrl);
