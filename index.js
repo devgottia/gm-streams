@@ -1,5 +1,5 @@
 $.ajax({
-  url: "https://s1.sportea.link/v1/api.php?key=a38088a3a9ba7c256f6580413927a274",
+  url: "https://andrhino.com/v1/api.php?key=a38088a3a9ba7c256f6580413927a274",
   method: "GET",
   dataType: "json",
 })
