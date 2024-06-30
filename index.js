@@ -57,7 +57,7 @@ $.ajax({
 
 function copyToClipboard(ch_Id) {
   let copyUrl = encodeURI(
-    `https://v1.gmstreams.site/p/p.html?ch=${ch_Id}`
+    `https://www.coinsreport.xyz/p/p.html?ch=${ch_Id}`
   );
 
   window.navigator.clipboard.writeText(copyUrl);
